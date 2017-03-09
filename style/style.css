@@ -1,0 +1,62 @@
+body{
+	background: #ebf0f3;
+}
+
+#header{
+	background: #fff;
+}
+
+.auto{
+	margin: 0 auto;
+}
+
+.w1200{
+	width: 1200px;
+}
+
+.mk_nav{
+	
+}
+.mk_nav > li{
+	display: inline-block;
+}
+.mk_search_input{
+	background: #fff url("../assets/images/search_icon.jpg")  12px center no-repeat;
+    width: 247px;
+    height: 34px;
+    float: left;
+    border: 1px solid #bbb;
+    box-sizing: content-box;
+    padding: 0 0 0 38px;
+}
+
+.mk_search_btn{
+
+}
+
+.mk_title{
+	height: 100px;
+	padding: 20px 0;
+}
+
+.mk_search{
+	float: right;
+	    padding-top: 10px;
+}
+
+.mk_search>div{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.mk_logo{
+	float: left;
+}
+
+.mk_ad_search{    
+    font-size: 16px;
+    line-height: 40px;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
